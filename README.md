@@ -6,10 +6,10 @@ Some worthy notes are mentioned in each project. And some c functions are alread
 
 Compilation can be done by 
 
-´´´
+```shell
 cc -Wall -Werror -Wextra file.c
+```
 
-´´´
 
 Notes:
 1. Let's see if I can make more exercises after the Piscine although there is already a lot of solutions going around the interwebs and I don't know if I will be able to verify my solutions.
