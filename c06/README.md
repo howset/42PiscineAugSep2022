@@ -8,4 +8,4 @@ This one was quick. First time dealing with parameters/arguments for the main fu
 - [ ] ex03	ft_sort_params
 
 Notes:
-1. Could probably have invested more time on ex03, but I decided to just move on. Which is unfortunately not the best idea.
+1. Could probably have invested more time on ex03, but I decided to just move on. Which was probably not the best idea.
