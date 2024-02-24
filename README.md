@@ -12,7 +12,7 @@ cc -Wall -Werror -Wextra file.c
 
 
 ## Notes:
-1. Let's see if I can make more exercises after the Piscine although there is already a lot of solutions going around the interwebs and I don't know if I will be able to verify my solutions.
+~1. Let's see if I can make more exercises after the Piscine although there is already a lot of solutions going around the interwebs and I don't know if I will be able to verify my solutions.~
 
 ## Content
 ```
